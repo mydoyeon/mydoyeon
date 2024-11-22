@@ -9,7 +9,7 @@
   <img src="https://ifh.cc/g/WCCK4X.jpg" alt="LEEDOYONN Logo" width="150">
 </a
 
-- Hello, I'm ART&TECH Student. Here I'm going to talk about the projects I've worked on, the skills I'm using, and my goals. 😊
+- Hello, I'm ART&TECH Student, LeeDoyeon. Here I'm going to talk about the projects I've worked on, the skills I'm using, and my goals. 😊
 
 ### 📚 STUDYING
 - Python and c++

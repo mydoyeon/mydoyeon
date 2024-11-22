@@ -4,8 +4,7 @@
 </div>
 
 ### ART&TECH Student 20242448 이도연 
-<!--
-**mydoyeon/mydoyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm studying Python and c++ [![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
 
 Here are some ideas to get you started:
 

@@ -19,7 +19,7 @@
 - Email : mydoyeon127@naver.com <a href="mailto:mydoyeon@naver.com" target="_blank">
   <img src="https://img.shields.io/badge/-Naver%20Mail-green?style=flat-square&logo=naver&logoColor=white&link=https://mail.naver.com" alt="Naver Email Logo">
 </a>
-- instagram : <a href="https://www.instagram.com/ledoyeonn/" target="_blank">
+- instagram : @ledoyeonn <a href="https://www.instagram.com/ledoyeonn/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Logo">
 </a>
 

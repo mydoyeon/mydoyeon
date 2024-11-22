@@ -28,6 +28,9 @@
 - **기술 스택**: CoSpaces, VR
 - It is a project where you can experience important scenes of Oz's Wizard Story in a VR environment.
 
+### 🤝 Collaboration & Contributions
+I'm open to collaborations! If you're interested in my projects or have new ideas, feel free to reach out. Let's create something amazing together!
+
 ### 📬 Contact information
 - **Email** : mydoyeon127@naver.com <a href="mailto:mydoyeon@naver.com" target="_blank">
   <img src="https://img.shields.io/badge/-Naver%20Mail-green?style=flat-square&logo=naver&logoColor=white&link=https://mail.naver.com" alt="Naver Email Logo">

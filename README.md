@@ -17,5 +17,5 @@
 
 ### 📬 Contact information
 - Email: mydoyeon127@naver.com <a href="https://mail.naver.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Naver%20Mail-black?style=flat-square&logo=naver&logoColor=white&link=https://mail.naver.com" alt="Naver Email Logo" width="200">
+  <img src="https://img.shields.io/badge/-Naver%20Mail-green?style=flat-square&logo=naver&logoColor=white&link=https://mail.naver.com" alt="Naver Email Logo">
 </a>

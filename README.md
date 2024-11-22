@@ -42,5 +42,5 @@ I'm open to collaborations! If you're interested in my projects or have new idea
 
 - **GitHub** : [mydoyeon](https://github.com/mydoyeon)
 
-### 🏆 GitHub Stats
+### 🌱 GitHub Stats
 [![GitHub Activity](https://img.shields.io/github/commit-activity/w/mydoyeon/mydoyeon?style=flat-square&logo=github)](https://github.com/mydoyeon)

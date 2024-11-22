@@ -9,7 +9,7 @@
   <img src="https://ifh.cc/g/WCCK4X.jpg" alt="LEEDOYONN Logo" width="100">
 </a
 
-- **Hello, I'm ART&TECH Student, LeeDoyeon.***
+- **Hello, I'm ART&TECH Student, LeeDoyeon.**
 - **Goal**: We want to combine technology and art to create amazing projects😊
 
 ### 📚 STUDYING

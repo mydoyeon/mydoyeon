@@ -26,7 +26,7 @@
 ### 💻 Project
 **1. [오즈의 마법사 VR 콘텐츠](https://edu.cospaces.io/LSY-UNH)**
 - **기술 스택**: CoSpaces, VR
-- VR 환경에서 **오즈의 마법사** 이야기의 중요한 장면을 체험할 수 있는 프로젝트입니다.
+- It is a project where you can experience important scenes of Oz's Wizard Story in a VR environment.
 
 ### 📬 Contact information
 - **Email** : mydoyeon127@naver.com <a href="mailto:mydoyeon@naver.com" target="_blank">

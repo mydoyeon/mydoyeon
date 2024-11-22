@@ -37,7 +37,7 @@ I'm open to collaborations! If you're interested in my projects or have new idea
 </a>
 
 - **Instagram** : @ledoyeonn <a href="https://www.instagram.com/ledoyeonn/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram- #d02392?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Logo">
+  <img src="https://img.shields.io/badge/-Instagram- purple?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Logo">
 </a>
 
 - **GitHub** : [mydoyeon](https://github.com/mydoyeon)

@@ -9,7 +9,7 @@
   <img src="https://ifh.cc/g/WCCK4X.jpg" alt="LEEDOYONN Logo" width="100">
 </a
 
-- Hello, I'm ART&TECH Student, LeeDoyeon.
+- **Hello, I'm ART&TECH Student, LeeDoyeon.***
 - **Goal**: We want to combine technology and art to create amazing projects😊
 
 ### 📚 STUDYING
@@ -24,6 +24,10 @@
 - **Tools**: Photoshop, Illustrator
 - **Other**: Git, GitHub, VS Code
 
+### 💻 Project
+**1. [오즈의 마법사 VR 콘텐츠](https://edu.cospaces.io/LSY-UNH)**
+- **기술 스택**: CoSpaces, VR
+- **설명**: VR 환경에서 **오즈의 마법사** 이야기의 중요한 장면을 체험할 수 있는 프로젝트입니다. 사용자는 주인공이 되어 이야기를 따라가며 다양한 캐릭터를 만날 수 있습니다.
 
 ### 📬 Contact information
 - **Email** : mydoyeon127@naver.com <a href="mailto:mydoyeon@naver.com" target="_blank">

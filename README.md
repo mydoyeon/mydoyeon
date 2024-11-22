@@ -10,7 +10,7 @@
 </a
 
 - **Hello, I'm ART&TECH Student, LeeDoyeon.**
-- **Goal**: We want to combine technology and art to create amazing projects😊
+- **Goal**: My goal is to integrate cutting-edge technology with creative arts to develop innovative, interactive experiences that inspire others.😊
 
 ### 📚 STUDYING
 - Python and c++

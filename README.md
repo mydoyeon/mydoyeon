@@ -10,7 +10,7 @@
 [![Photoshop Badge](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white&link=https://www.adobe.com/products/photoshop.html)](https://www.adobe.com/products/photoshop.html) [![Illustrator Badge](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white&link=https://www.adobe.com/products/illustrator.html)](https://www.adobe.com/products/illustrator.html)
 - MY LOGO
 <a href="https://example.com">
-  <img src="https://ifh.cc/g/8wAg9K.jpg" alt="LEEDOYONN Logo" width="150">
+  <img src="https://ifh.cc/g/bLx3sB.jpg" alt="LEEDOYONN Logo" width="100">
 </a>
 
 

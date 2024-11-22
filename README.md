@@ -4,13 +4,13 @@
 </div>
 
 ### ART&TECH Student 20242448 이도연
-- My Logo
+- **My Logo**
 <a href="https://github.com/mydoyeon">
   <img src="https://ifh.cc/g/WCCK4X.jpg" alt="LEEDOYONN Logo" width="100">
 </a
 
 - Hello, I'm ART&TECH Student, LeeDoyeon.
-- Here I'm going to talk about the projects I've worked on, the skills I'm using, and my goals. 😊
+- **Goal**: We want to combine technology and art to create amazing projects😊
 
 ### 📚 STUDYING
 - Python and c++
@@ -26,11 +26,11 @@
 
 
 ### 📬 Contact information
-- Email : mydoyeon127@naver.com <a href="mailto:mydoyeon@naver.com" target="_blank">
+- **Email** : mydoyeon127@naver.com <a href="mailto:mydoyeon@naver.com" target="_blank">
   <img src="https://img.shields.io/badge/-Naver%20Mail-green?style=flat-square&logo=naver&logoColor=white&link=https://mail.naver.com" alt="Naver Email Logo">
 </a>
 
-- Instagram : @ledoyeonn <a href="https://www.instagram.com/ledoyeonn/" target="_blank">
+- **Instagram** : @ledoyeonn <a href="https://www.instagram.com/ledoyeonn/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Logo">
 </a>
 

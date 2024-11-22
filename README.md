@@ -6,7 +6,7 @@
 ### ART&TECH Student 20242448 이도연
 - My Logo
 <a href="https://github.com/mydoyeon">
-  <img src="https://ifh.cc/g/WCCK4X.jpg" alt="LEEDOYONN Logo" width="150">
+  <img src="https://ifh.cc/g/WCCK4X.jpg" alt="LEEDOYONN Logo" width="100">
 </a
 
 - Hello, I'm ART&TECH Student, LeeDoyeon.

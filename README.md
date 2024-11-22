@@ -20,7 +20,7 @@
 
 ### 🛠️ Tech Stack
 - **Languages**: Python, C++
-- **Tools**: Photoshop, Illustrator
+- **Tools**: Photoshop, Illustrator, Maya
 - **Other**: Git, GitHub, VS Code
 
 ### 💻 Project

@@ -16,6 +16,10 @@
 [![Photoshop Badge](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white&link=https://www.adobe.com/products/photoshop.html)](https://www.adobe.com/products/photoshop.html) [![Illustrator Badge](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white&link=https://www.adobe.com/products/illustrator.html)](https://www.adobe.com/products/illustrator.html)
 
 ### 📬 Contact information
-- Email: mydoyeon127@naver.com <a href="mailto:mydoyeon@naver.com" target="_blank">
+- Email : mydoyeon127@naver.com <a href="mailto:mydoyeon@naver.com" target="_blank">
   <img src="https://img.shields.io/badge/-Naver%20Mail-green?style=flat-square&logo=naver&logoColor=white&link=https://mail.naver.com" alt="Naver Email Logo">
 </a>
+- instagram : <a href="https://www.instagram.com/ledoyeonn/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Logo">
+</a>
+

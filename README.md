@@ -43,7 +43,4 @@ I'm open to collaborations! If you're interested in my projects or have new idea
 - **GitHub** : [mydoyeon](https://github.com/mydoyeon)
 
 ### 🏆 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mydoyeon&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-### 🌱 GitHub Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mydoyeon&theme=radical)
+[![GitHub Activity](https://img.shields.io/github/commit-activity/w/mydoyeon/mydoyeon?style=flat-square&logo=github)](https://github.com/mydoyeon)

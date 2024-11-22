@@ -4,9 +4,10 @@
 </div>
 
 ### ART&TECH Student 20242448 이도연 
-- I'm studying Python and c++
+### studying
+- Python and c++
 [![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/) [![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&link=https://isocpp.org/)](https://isocpp.org/)
-- I'm studying Photoshop and Illustrator
+- Photoshop and Illustrator
 [![Photoshop Badge](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white&link=https://www.adobe.com/products/photoshop.html)](https://www.adobe.com/products/photoshop.html) [![Illustrator Badge](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white&link=https://www.adobe.com/products/illustrator.html)](https://www.adobe.com/products/illustrator.html)
 - My Logo
 <a href="https://github.com/mydoyeon">

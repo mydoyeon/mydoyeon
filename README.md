@@ -8,6 +8,7 @@
 <a href="https://github.com/mydoyeon">
   <img src="https://ifh.cc/g/WCCK4X.jpg" alt="LEEDOYONN Logo" width="150">
 </a>
+
 ### 📚 STUDYING
 - Python and c++
 [![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/) [![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&link=https://isocpp.org/)](https://isocpp.org/)

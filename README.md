@@ -3,6 +3,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmydoyeon&count_bg=%23FFE300&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
+[![LEEDOYONN Logo](attachment 링크)](https://example.com)
+
 ### ART&TECH Student 20242448 이도연 
 - I'm studying Python and c++
 [![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/) [![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&link=https://isocpp.org/)](https://isocpp.org/)

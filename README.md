@@ -4,7 +4,7 @@
 </div>
 
 ### ART&TECH Student 20242448 이도연 
-### studying
+### 📚 STUDYING
 - Python and c++
 [![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/) [![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&link=https://isocpp.org/)](https://isocpp.org/)
 - Photoshop and Illustrator

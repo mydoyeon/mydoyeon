@@ -4,7 +4,7 @@
 </div>
 
 <a href="https://example.com">
-  <img src="https://ifh.cc/g/wFaHsG.jpg" alt="LEEDOYONN Logo" width="400">
+  <img src="https://ifh.cc/g/wFaHsG.jpg" alt="LEEDOYONN Logo" width="500">
 </a>
 
 ### ART&TECH Student 20242448 이도연 

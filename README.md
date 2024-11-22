@@ -19,7 +19,6 @@
 [![Photoshop Badge](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white&link=https://www.adobe.com/products/photoshop.html)](https://www.adobe.com/products/photoshop.html) [![Illustrator Badge](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white&link=https://www.adobe.com/products/illustrator.html)](https://www.adobe.com/products/illustrator.html)
 
 ### 🛠️ Tech Stack
-
 - **Languages**: Python, C++
 - **Tools**: Photoshop, Illustrator
 - **Other**: Git, GitHub, VS Code
@@ -27,7 +26,7 @@
 ### 💻 Project
 **1. [오즈의 마법사 VR 콘텐츠](https://edu.cospaces.io/LSY-UNH)**
 - **기술 스택**: CoSpaces, VR
-- **설명**: VR 환경에서 **오즈의 마법사** 이야기의 중요한 장면을 체험할 수 있는 프로젝트입니다. 사용자는 주인공이 되어 이야기를 따라가며 다양한 캐릭터를 만날 수 있습니다.
+- VR 환경에서 **오즈의 마법사** 이야기의 중요한 장면을 체험할 수 있는 프로젝트입니다. 사용자는 주인공이 되어 이야기를 따라가며 다양한 캐릭터를 만날 수 있습니다.
 
 ### 📬 Contact information
 - **Email** : mydoyeon127@naver.com <a href="mailto:mydoyeon@naver.com" target="_blank">

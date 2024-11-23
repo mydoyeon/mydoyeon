@@ -1,4 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmydoyeon&count_bg=%23FFE300&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![GitHub Activity](https://img.shields.io/github/commit-activity/w/mydoyeon/mydoyeon?style=flat-square&logo=github)](https://github.com/mydoyeon)
 
 ### ART&TECH Student 20242448 이도연
 - **My Logo**
@@ -39,6 +40,3 @@ I'm open to collaborations! If you're interested in my projects or have new idea
 </a>
 
 - **GitHub** : [mydoyeon](https://github.com/mydoyeon)
-
-### 🌱 GitHub Stats
-[![GitHub Activity](https://img.shields.io/github/commit-activity/w/mydoyeon/mydoyeon?style=flat-square&logo=github)](https://github.com/mydoyeon)
